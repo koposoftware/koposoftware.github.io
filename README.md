@@ -18,7 +18,7 @@
 
 
 ## 나성주 -기존 모임통장을 기반으로 한 간편 경매 앱
-<p><a href="https://koposoftware.github.io/2020_11_sjna">홈페이지</a></p>
+<p><a href="https://koposoftware.github.io/2020_19_sjna/">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_11_sjna">github home가기</a></p>
 
 
