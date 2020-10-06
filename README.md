@@ -2,7 +2,7 @@
 
 ## 2020학년
 
-### 구재희 - 하나은행 예적금 관리 서비스
+### 구재희 - 계좌 관리 및 분석 서비스
 <p><a href="https://koposoftware.github.io/2020_9_jhkoo">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_9_jhkoo">github home가기</a></p>
 
@@ -30,7 +30,7 @@
 <p><a href="https://koposoftware.github.io/2020_13_chpark">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_13_chpark">github home가기</a></p>
 
-### 소재원 - 하나카드 관리자 대시보드 및 리포트 메일링 서비스
+### 소재원 - 데이터 처리 성능 최적화를 통한 카드데이터 분석 대시보드
 <p><a href="https://koposoftware.github.io/2020_3_jwso">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_3_jwso">github home가기</a></p>
 
@@ -62,14 +62,14 @@
 <p><a href="https://koposoftware.github.io/2020_7_yncho">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_7_yncho">github home가기</a></p>
 
-### 최윤선 - 간편한 환전지갑
+### 최윤선 - 안전한 환전지갑 서비스
 <p><a href="https://koposoftware.github.io/2020_17_yschoi">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_17_yschoi">github home가기</a></p>
 
-### 한미희 - 하나 모임계좌 관리 시스템
+### 한미희 - 하나은행 모임통장 서비스
 <p><a href="https://koposoftware.github.io/2020_8_mhhan">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_8_mhhan">github home가기</a></p>
 
-### 홍현택 - 하나원픽 직장인 예산관리 서비스
+### 홍현택 - 하나원픽 사회초년생 자산관리 서비스
 <p><a href="https://koposoftware.github.io/2020_18_hthong">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_18_hthong">github home가기</a></p>
