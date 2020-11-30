@@ -5,7 +5,8 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
 
 
-#<p><a href="https://koposoftware.github.io/2020">2020학년도 졸업프로젝트 바로가기 - Spring 기반 금융서비스 개발</a></p>
+
+# <a href="https://koposoftware.github.io/2020">2020학년도 졸업프로젝트 바로가기 - Spring 기반 금융서비스 개발</a>
 
 ## 구재희 - 계좌 관리 및 분석 서비스
 <p><a href="https://koposoftware.github.io/2020_9_jhkoo">홈페이지</a></p>
