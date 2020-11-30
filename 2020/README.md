@@ -1,8 +1,7 @@
 
 
-# Spring 기반 웹 애플리케이션 개발 졸업 프로젝트
-
-## 2020학년
+# 2020 Spring 기반 금융서비스 개발 졸업 프로젝트
+<p><a href="https://koposoftware.github.io/">데이터분석과 홈페이지</a></p>
 
 ## 구재희 - 계좌 관리 및 분석 서비스
 <p><a href="https://koposoftware.github.io/2020_9_jhkoo">홈페이지</a></p>
