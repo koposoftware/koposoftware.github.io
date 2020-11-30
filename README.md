@@ -1,3 +1,11 @@
+# 광명융합기술교육원 데이터분석과 YouTube 개설
+
+<p><a href="https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ/featured?view_as=subscriber">한국폴리텍대학_광명 데이터분석과</a></p>
+
+
+# 2020학년도 졸업프로젝트 바로가기
+
+
 # Spring 기반 웹 애플리케이션 개발 졸업 프로젝트
 
 ## 2020학년
