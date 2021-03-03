@@ -73,11 +73,6 @@
 <p><a href="https://github.com/koposoftware/2020_16_dyyoon">github home가기</a></p>
 
 
-## 이상현 - 함께하는 약속이행 적금상품
-<p><a href="https://koposoftware.github.io/2020_4_shlee">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_4_shlee">github home가기</a></p>
-
-
 ## 이진희 - 하나은행 상담기록 옴니채널
 <p><a href="https://koposoftware.github.io/2020_5_jhlee">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_5_jhlee">github home가기</a></p>
