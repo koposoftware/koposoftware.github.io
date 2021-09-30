@@ -8,12 +8,12 @@
 <p><a href="https://github.com/koposoftware/2021_1_bskoo">github home가기</a></p>
 
 
-## 김도희 - 와글와글 : 포트폴리오 평가와 투자조언 받기
+## 김도희 - 하나팔로우 : 금융 인플루언서 따라 가치투자하기
 <p><a href="https://koposoftware.github.io/2021_2_dhkim">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_2_dhkim">github home가기</a></p>
 
 
-## 김지윤 - 소비패턴 분석을 통한 카드 추천 서비스
+## 김지윤 - 소비패턴 기반 카드 추천 서비스
 <p><a href="https://koposoftware.github.io/2021_3_jykim">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_3_jykim">github home가기</a></p>
 
@@ -23,7 +23,7 @@
 <p><a href="https://github.com/koposoftware/2021_4_cmkim">github home가기</a></p>
 
 
-## 박민영 - 나 하나만의 금융비서, 나비
+## 박민영 - 하나은행 금융 전자장부, 나비
 <p><a href="https://koposoftware.github.io/2021_5_mypark">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_5_mypark">github home가기</a></p>
 
@@ -33,12 +33,7 @@
 <p><a href="https://github.com/koposoftware/2021_6_jbpark">github home가기</a></p>
 
 
-## 안성재 - AI와 라이브 스트리밍을 활용한 자동차 금융 서비스
-<p><a href="https://koposoftware.github.io/2021_7_sjahn">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2021_7_sjahn">github home가기</a></p>
-
-
-## 신예린 - MZ 세대를 위한 잔액쪼개기를 이용한 자산관리시스템
+## 신예린 - 통장쪼개기를 이용한 MZ세대 자산관리 서비스
 <p><a href="https://koposoftware.github.io/2021_8_yrshin">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_8_yrshin">github home가기</a></p>
 
@@ -48,17 +43,17 @@
 <p><a href="https://github.com/koposoftware/2021_9_jhan">github home가기</a></p>
 
 
-## 윤소영 - 홈원하나 : 임대주택 정보 제공 및 대출 서비스
+## 윤소영 - 홈원하나 : 전국 임대주택 정보 제공 및 대출 서비스
 <p><a href="https://koposoftware.github.io/2021_10_syyoon">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_10_syyoon">github home가기</a></p>
 
 
-## 윤승원 - 지점 잉여 인력을 활용한 온라인 자산관리 서비스
+## 윤승원 - 하나MY PB : 지점 인력 효율화를 통한 비대면 투자상담 서비스
 <p><a href="https://koposoftware.github.io/2021_11_swyoon">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_11_swyoon">github home가기</a></p>
 
 
-## 윤정환 - One Club 구독형 나만의 가치투자 플랫폼
+## 윤정환 - One Club 구독형 나만의 가치투자 플랫폼 
 <p><a href="https://koposoftware.github.io/2021_12_jhyoon">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_12_jhyoon">github home가기</a></p>
 
@@ -68,22 +63,22 @@
 <p><a href="https://github.com/koposoftware/2021_13_hnlee">github home가기</a></p>
 
 
-## 정해명 - 하나윈스톡 : 초단위 주가 및 뉴스 제공 모의투자 HTS
+## 정해명 - 초단위 주가 정보와 편리한 소통 서비스가 제공되는 투자 대회 플랫폼
 <p><a href="https://koposoftware.github.io/2021_14_hmjung">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_14_hmjung">github home가기</a></p>
 
 
-## 정현석 - 하나은행 사용자 기반의 중고 거래 플랫폼 하나 Market
+## 정현석 - 하나은행 사용자 기반의 중고 거래 플랫폼 하나Market
 <p><a href="https://koposoftware.github.io/2021_15_hsjung">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_15_hsjung">github home가기</a></p>
 
 
-## 조세진 - 블록체인을 활용한 미술품 공동구매 서비스
+## 조세진 - 보안을 강화한 소액투자를 위한 미술품 공동구매 서비스
 <p><a href="https://koposoftware.github.io/2021_16_sjcho">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_16_sjcho">github home가기</a></p>
 
 
-## 최민기 - FUN하지만 뻔하지 않은 자산관리 서비스
+## 최민기 - 하나FUN: 쉽고 재미있는 저축
 <p><a href="https://koposoftware.github.io/2021_17_mgchoi">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_17_mgchoi">github home가기</a></p>
 
