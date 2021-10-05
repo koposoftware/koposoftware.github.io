@@ -63,7 +63,7 @@
 <p><a href="https://github.com/koposoftware/2021_13_hnlee">github home가기</a></p>
 
 
-## 정해명 - 초단위 주가 정보와 편리한 소통 서비스가 제공되는 투자 대회 플랫폼
+## 정해명 - 하나윈스톡 : 실시간 인공지능 WTS
 <p><a href="https://koposoftware.github.io/2021_14_hmjung">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_14_hmjung">github home가기</a></p>
 
