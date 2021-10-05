@@ -23,7 +23,7 @@
 <p><a href="https://github.com/koposoftware/2021_4_cmkim">github home가기</a></p>
 
 
-## 박민영 - 하나은행 금융 전자장부, 나비
+## 박민영 - 나비(NAVi) : 중도매인 전용 전자장부 플랫폼
 <p><a href="https://koposoftware.github.io/2021_5_mypark">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_5_mypark">github home가기</a></p>
 
