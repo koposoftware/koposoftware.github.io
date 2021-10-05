@@ -6,8 +6,6 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
 
 ## <a href="https://koposoftware.github.io/2021">2021학년도 데이터분석과</a>
-## <a href="https://koposoftware.github.io/2020">2020학년도 데이터분석과</a>
-
 
 ## 유용한 link들 
 <p><a href="https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ/featured?view_as=subscriber">한국폴리텍대학_광명 데이터분석과 Youtube 채널</a></p>
