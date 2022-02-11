@@ -6,7 +6,7 @@
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
 
 ## <a href="https://koposoftware.github.io/2021">2021학년도 데이터분석과</a>
-
+## <a href="https://koposoftware.github.io/2020">2021학년도 데이터분석과</a>
 
 # 2021년 데이터분석과
 
