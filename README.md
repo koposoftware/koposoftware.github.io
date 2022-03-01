@@ -4,7 +4,8 @@
 <p><a href="https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ/featured?view_as=subscriber">한국폴리텍대학_광명 데이터분석과</a></p>
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
-
+</br>
+# <a href="https://koposoftware.github.io/2022">2022학년도 데이터분석과</a>
 # <a href="https://koposoftware.github.io/2021">2021학년도 데이터분석과</a>
 # <a href="https://koposoftware.github.io/2020">2020학년도 데이터분석과</a>
 
