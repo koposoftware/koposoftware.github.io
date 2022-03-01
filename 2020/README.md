@@ -42,12 +42,7 @@
 <p><a href="https://koposoftware.github.io/2020_3_jwso">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_3_jwso">github home가기</a></p>
 
-
-## 신형재 - 환전 HANARO 환전 공동구매
-<p><a href="https://koposoftware.github.io/2020_14_hjshin">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_14_hjshin">github home가기</a></p>
-
-
+ 
 ## 양은희 - Z세대를 위한 짠테크 주식투자
 <p><a href="https://koposoftware.github.io/2020_15_ehyang">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_15_ehyang">github home가기</a></p>
@@ -56,16 +51,6 @@
 ## 윤다영 - HanaSafe 안전한 해외송금
 <p><a href="https://koposoftware.github.io/2020_16_dyyoon">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_16_dyyoon">github home가기</a></p>
-
-
-## 이상현 - 함께하는 약속이행 적금상품
-<p><a href="https://koposoftware.github.io/2020_4_shlee">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_4_shlee">github home가기</a></p>
-
-
-## 이진희 - 하나은행 상담기록 옴니채널
-<p><a href="https://koposoftware.github.io/2020_5_jhlee">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_5_jhlee">github home가기</a></p>
 
 
 ## 전혜원 - 외국인 특화 금융플랫폼
@@ -87,7 +72,3 @@
 <p><a href="https://koposoftware.github.io/2020_8_mhhan">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_8_mhhan">github home가기</a></p>
 
-
-## 홍현택 - 하나원픽 사회초년생 자산관리 서비스
-<p><a href="https://koposoftware.github.io/2020_18_hthong">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_18_hthong">github home가기</a></p>
