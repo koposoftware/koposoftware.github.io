@@ -23,11 +23,6 @@
 <p><a href="https://github.com/koposoftware/2021_4_cmkim">github home가기</a></p>
 
 
-## 박민영 - 나비(NAVi) : 중도매인 전용 전자장부 플랫폼
-<p><a href="https://koposoftware.github.io/2021_5_mypark">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2021_5_mypark">github home가기</a></p>
-
-
 ## 박종범 - 하나WITH: 소상공인을 위한 경영·세무 신고 지원 플랫폼
 <p><a href="https://koposoftware.github.io/2021_6_jbpark">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_6_jbpark">github home가기</a></p>
