@@ -1,6 +1,7 @@
 
-# 광명융합기술교육원 데이터분석과 YouTube 개설
+# 한국폴리텍대학 광명융합기술교육원 데이터분석과
 
+## YouTube 데이터분석과 바로 가기 
 <p><a href="https://www.youtube.com/channel/UCwTOdBeKnZo83qTpqc8-rTQ/featured?view_as=subscriber">한국폴리텍대학_광명 데이터분석과</a></p>
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
