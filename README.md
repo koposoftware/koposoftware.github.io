@@ -43,7 +43,7 @@
 <p><a href="https://github.com/koposoftware/2022_7_hspark">github home가기</a></p>
 
 
-## 서유경 - K-Contents 소액투자 플랫폼 (문화 소비 성향 분석을 통한 추천 서비스 제공)
+## 서유경 - K-Contents 소액투자 플랫폼
 <p><a href="https://koposoftware.github.io/2022_8_ykseo">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2022_8_ykseo">github home가기</a></p>
 
@@ -78,7 +78,7 @@
 <p><a href="https://github.com/koposoftware/2022_14_ujjeong">github home가기</a></p>
 
 
-## 조재희 -	통계분석 기반 초 개인화 카드추천 서비스 
+## 조재희 - 마이데이터 기반 카드추천 서비스 
 <p><a href="https://koposoftware.github.io/2022_15_jhjo">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2022_15_jhjo">github home가기</a></p>
 
