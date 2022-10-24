@@ -73,7 +73,7 @@
 <p><a href="https://github.com/koposoftware/2022_13_hjjeon">github home가기</a></p>
 
 
-## 정의정 -	샐 틈 없는 자산관리와 내게 딱 맞는 펀드 추천 시스템
+## 정의정 -	통장 쪼개기를 통한 '샐 틈 없는' 자산관리의 시작, My One HANA
 <p><a href="https://koposoftware.github.io/2022_14_ujjeong">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2022_14_ujjeong">github home가기</a></p>
 
