@@ -48,7 +48,7 @@
 <p><a href="https://github.com/koposoftware/2022_8_ykseo">github home가기</a></p>
 
 
-## 엄재철 - 소상공인을 위한 하나 상생 플랫폼 (상권분석과 경영관리를 한번에)
+## 엄재철 - 주문플랫폼과 소상공인 매출분석을 통한 대출혜택을 제공하는 하나 H.S With(하나상생플랫폼)
 <p><a href="https://koposoftware.github.io/2022_9_jcum">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2022_9_jcum">github home가기</a></p>
 
