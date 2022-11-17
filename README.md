@@ -6,6 +6,10 @@
 
 <iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/NnNm3ZU6fz8" frameborder="0"></iframe>  
 
+# <p><a href="https://koposoftware.github.io/2020">2020년 데이터분석과 졸업프로젝트</a></p>
+# <p><a href="https://koposoftware.github.io/2021">2021년 데이터분석과 졸업프로젝트</a></p> 
+# <p><a href="https://koposoftware.github.io/2022">2022년 데이터분석과 졸업프로젝트</a></p>
+
 # 2022년 데이터분석과 졸업프로젝트
 
 ## 구이경 - 자산 관리와 재무설계까지 원큐에,나만의 맞춤형 재무설계 플랫폼
