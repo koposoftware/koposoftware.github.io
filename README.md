@@ -10,8 +10,6 @@
 # <a href="https://koposoftware.github.io/2021">2021년 데이터분석과 졸업프로젝트</a> 
 # <a href="https://koposoftware.github.io/2022">2022년 데이터분석과 졸업프로젝트</a>
 
-# 2022년 데이터분석과 졸업프로젝트
-
 ## 구이경 - 자산 관리와 재무설계까지 원큐에,나만의 맞춤형 재무설계 플랫폼
 <p><a href="https://koposoftware.github.io/2022_1_ekkoo">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2022_1_ekkoo">github home가기</a></p>
