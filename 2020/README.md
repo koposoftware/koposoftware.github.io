@@ -66,8 +66,3 @@
 ## 한미희 - 하나은행 모임통장 서비스
 <p><a href="https://koposoftware.github.io/2020_8_mhhan">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_8_mhhan">github home가기</a></p>
-
-
-## 홍현택 - Hana One-Pick (사회초년생 자산관리서비스)
-<p><a href="https://koposoftware.github.io/2020_18_hthong">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_18_hthong">github home가기</a></p>
