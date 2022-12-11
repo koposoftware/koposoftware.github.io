@@ -8,11 +8,6 @@
 <p><a href="https://github.com/koposoftware/2020_9_jhkoo">github home가기</a></p>
 
 
-## 김리나 - 비대면 기업대출 플랫폼
-<p><a href="https://koposoftware.github.io/2020_10_rnkim">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2020_10_rnkim">github home가기</a></p>
-
-
 ## 김혜주 - 부동산 정보 제공 및 대출 추천 , 상담서비스
 <p><a href="https://koposoftware.github.io/2020_1_hjkim">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2020_1_hjkim">github home가기</a></p>
