@@ -28,11 +28,6 @@
 <p><a href="https://github.com/koposoftware/2021_6_jbpark">github home가기</a></p>
 
 
-## 신예린 - 통장쪼개기를 이용한 MZ세대 자산관리 서비스
-<p><a href="https://koposoftware.github.io/2021_8_yrshin">홈페이지</a></p>
-<p><a href="https://github.com/koposoftware/2021_8_yrshin">github home가기</a></p>
-
-
 ## 안재훈 - 주식 소통 서비스 HANA TockTalk
 <p><a href="https://koposoftware.github.io/2021_9_jhan">홈페이지</a></p>
 <p><a href="https://github.com/koposoftware/2021_9_jhan">github home가기</a></p>
