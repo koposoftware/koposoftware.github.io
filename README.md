@@ -1,18 +1,8 @@
-# <a href="https://koposoftware.github.io/2020">한국폴리텍대학 광명융합기술교육원</a>
+# <a href="https://koposoftware.github.io/2020">한국폴리텍대학 광명융합기술교육원 데이터분석과</a>
 # <a href="https://koposoftware.github.io/2020">2020년 데이터분석과 졸업프로젝트</a>
 # <a href="https://koposoftware.github.io/2021">2021년 데이터분석과 졸업프로젝트</a> 
 # <a href="https://koposoftware.github.io/2022">2022년 데이터분석과 졸업프로젝트</a>
-
-## <a href="https://koposoftware.github.io/2022_1_ekkoo">구이경 - 자산 관리와 재무설계까지 나만의 맞춤형 재무설계 플랫폼 </a>
-
-## <a href="https://koposoftware.github.io/2022_1_ekkoo">김병관 -	요즘이 어떤 세상인데, 왜 그렇게 송금해요?  </a>
-
-## <a href="https://koposoftware.github.io/2022_1_ekkoo"> 김선영 -	Hana EZ(easy-one) 외환 플랫폼,Hana Global  </a>
-
-## <a href="https://koposoftware.github.io/2022_1_ekkoo">박수민 - 소비 성향 분석과 FUN하게 하는 재테크  </a>
-
-## <a href="https://koposoftware.github.io/2022_1_ekkoo">박유라 - 초 개인화 인슈어테크, 나만의 건강한 보험 플랫폼  </a>
-
+ 
 
 ## 구이경 - 자산 관리와 재무설계까지 나만의 맞춤형 재무설계 플랫폼
 <p><a href="https://koposoftware.github.io/2022_1_ekkoo">홈페이지</a></p>
