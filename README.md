@@ -1,4 +1,4 @@
-# <a href="https://koposoftware.github.io/2020">한국폴리텍대학 광명융합기술교육원 데이터분석과</a>
+# <a href="https://koposoftware.github.io/2020">한국폴리텍대학 광명융합기술교육원</a>
 # <a href="https://koposoftware.github.io/2020">2020년 데이터분석과 졸업프로젝트</a>
 # <a href="https://koposoftware.github.io/2021">2021년 데이터분석과 졸업프로젝트</a> 
 # <a href="https://koposoftware.github.io/2022">2022년 데이터분석과 졸업프로젝트</a>
